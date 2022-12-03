@@ -9,7 +9,7 @@
 
 - 📫 How to reach me by <a href="mailto:paulinefugit@gmail.com">email</a>
 
-- ⚡ Fun fact **I read a lot **
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
