@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/PauFugit?tab=repositories">my repositories</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/PauFugit?tab=repositories">my repositorie</a>
 
 - 📫 How to reach me by <a href="mailto:paulinefugit@gmail.com">email</a>
 
