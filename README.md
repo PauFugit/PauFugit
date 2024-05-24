@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paufugit&label=Profile%20views&color=0e75b6&style=flat" alt="paufugit" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/PauFugit?tab=repositories">my repositorie</a>
 
