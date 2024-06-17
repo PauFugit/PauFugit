@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulina</h1>
-<h3 align="center">A passionate frontend developer. </h3>
+<h3 align="center">A passionate fullstack developer. </h3>
   <h4 align="center">I would love to continue learning new languages and technologies while deepening the knowledge already acquired </h4> 
   <br>
   <br>
