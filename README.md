@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulina</h1>
 <h3 align="center">A passionate fullstack developer. </h3>
-  <h4 align="center">I would love to continue learning new languages and technologies while deepening the knowledge already acquired </h4> 
+  <h4 align="center">Full Stack Developer with experience creating web applications using modern technologies such as React, Next.js, Node.js, Prisma, and MySQL. I focus on building efficient and scalable solutions, collaborating on projects that optimize the user experience and improve performance. Here you will find some of my most recent projects, where I constantly apply new technologies and best practices in development. Always open to new collaborations and continuous learning! </h4> 
   <br>
   <br>
 
