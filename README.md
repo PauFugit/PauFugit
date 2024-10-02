@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paufugit&label=Profile%20views&color=0e75b6&style=flat" alt="paufugit" /> </p>
 
+- 🔭 I’m currently working on My portafolio
+
 - 🌱 Currently perfecting myself in **Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/PauFugit?tab=repositories">my repositorie</a>
