@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paulina</h1>
-<h3 align="center">A passionate fullstack developer. </h3>
-  <h4 align="center">Full Stack Developer with experience creating web applications using modern technologies such as React, Next.js, Node.js, Prisma, and MySQL. I focus on building efficient and scalable solutions, collaborating on projects that optimize the user experience and improve performance. Here you will find some of my most recent projects, where I constantly apply new technologies and best practices in development. Always open to new collaborations and continuous learning! </h4> 
   <br>
   <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paufugit&label=Profile%20views&color=0e75b6&style=flat" alt="paufugit" /> </p>
 
-- 🔭 I’m currently working on My portafolio
-
-- 🌱 Currently perfecting myself in **Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/PauFugit?tab=repositories">my repositorie</a>
 
